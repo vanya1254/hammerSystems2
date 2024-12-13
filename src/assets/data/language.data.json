@@ -1,5 +1,11 @@
 [
-	{
+    {
+        "langName": "Russian",
+        "langId": "ru",
+        "icon": "ru",
+        "lang": "Ru"
+    },
+    {
         "langName": "English",
         "langId": "en",
         "icon": "us",

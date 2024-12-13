@@ -1,0 +1,12 @@
+{
+    "home": "Домой",
+    "sidenav.authentication": "Аутентификация",
+    "sidenav.authentication.login.1": "Вход 1",
+    "sidenav.authentication.login.2": "Вход 2",
+    "sidenav.authentication.register.1": "Регистрация 1",
+    "sidenav.authentication.register.2": "Регистрация 2",
+    "sidenav.authentication.forgetPassword": "Забыли пароль",
+    "sidenav.errors": "Ошибки",
+    "sidenav.errors.error.1": "Страница ошибки 1",
+    "sidenav.errors.error.2": "Страница ошибки 2"
+}
