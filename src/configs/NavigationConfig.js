@@ -74,7 +74,16 @@ const mainNavTree = [
         title: "sidenav.main.events",
         icon: FileTextOutlined,
         breadcrumb: false,
-        submenu: [],
+        submenu: [
+          {
+            key: "main-events-groups",
+            path: `${APP_PREFIX_PATH}/main/events/groups`,
+            title: "sidenav.main.events.groups",
+            icon: "",
+            breadcrumb: true,
+            submenu: [],
+          },
+        ],
       },
       {
         key: "main-staff",
