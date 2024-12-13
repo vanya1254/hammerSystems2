@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/app-views/main/scheduler/index.js"],"names":["Scheduler","_jsx","children"],"mappings":"mGAAA,uBAMeA,UAJGA,IACTC,cAAA,OAAAC,SAAK,a","file":"static/js/19.94179311.chunk.js","sourcesContent":["import React from \"react\";\r\n\r\nconst Scheduler = () => {\r\n  return <div>Scheduler</div>;\r\n};\r\n\r\nexport default Scheduler;\r\n"],"sourceRoot":""}

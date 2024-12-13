@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/app-views/main/venues/index.js"],"names":["Venues","_jsx","children"],"mappings":"mGAAA,uBAMeA,UAJAA,IACNC,cAAA,OAAAC,SAAK,U","file":"static/js/21.c10c26c3.chunk.js","sourcesContent":["import React from \"react\";\r\n\r\nconst Venues = () => {\r\n  return <div>Venues</div>;\r\n};\r\n\r\nexport default Venues;\r\n"],"sourceRoot":""}

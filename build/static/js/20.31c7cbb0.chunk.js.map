@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/app-views/main/staff/index.js"],"names":["Staff","_jsx","children"],"mappings":"mGAAA,uBAMeA,UAJDA,IACLC,cAAA,OAAAC,SAAK,S","file":"static/js/20.31c7cbb0.chunk.js","sourcesContent":["import React from \"react\";\r\n\r\nconst Staff = () => {\r\n  return <div>Staff</div>;\r\n};\r\n\r\nexport default Staff;\r\n"],"sourceRoot":""}

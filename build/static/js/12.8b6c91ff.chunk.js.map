@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/app-views/main/bookings/index.js"],"names":["Bookings","_jsx","children"],"mappings":"mGAAA,uBAMeA,UAJEA,IACRC,cAAA,OAAAC,SAAK,Y","file":"static/js/12.8b6c91ff.chunk.js","sourcesContent":["import React from \"react\";\r\n\r\nconst Bookings = () => {\r\n  return <div>Bookings</div>;\r\n};\r\n\r\nexport default Bookings;\r\n"],"sourceRoot":""}

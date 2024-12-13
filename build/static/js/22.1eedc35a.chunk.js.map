@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/app-views/main/webModule/index.js"],"names":["WebModule","_jsx","children"],"mappings":"mGAAA,uBAMeA,UAJGA,IACTC,cAAA,OAAAC,SAAK,a","file":"static/js/22.1eedc35a.chunk.js","sourcesContent":["import React from \"react\";\r\n\r\nconst WebModule = () => {\r\n  return <div>WebModule</div>;\r\n};\r\n\r\nexport default WebModule;\r\n"],"sourceRoot":""}

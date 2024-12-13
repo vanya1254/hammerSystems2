@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/app-views/main/clients/index.js"],"names":["Clients","_jsx","children"],"mappings":"mGAAA,uBAMeA,UAJCA,IACPC,cAAA,OAAAC,SAAK,W","file":"static/js/13.eb4f7ea3.chunk.js","sourcesContent":["import React from \"react\";\r\n\r\nconst Clients = () => {\r\n  return <div>Clients</div>;\r\n};\r\n\r\nexport default Clients;\r\n"],"sourceRoot":""}

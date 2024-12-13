@@ -1,0 +1,2 @@
+(this.webpackJsonpemilus=this.webpackJsonpemilus||[]).push([[15],{513:function(t,c,e){"use strict";e.r(c);e(0);var s=e(45),r=e(5);var n=()=>Object(r.jsx)("div",{children:"Groups events"});c.default=t=>{let{match:c}=t;return Object(r.jsxs)(s.d,{children:[Object(r.jsx)(s.a,{exact:!0,from:"".concat(c.url),to:"".concat(c.url,"/groups")}),Object(r.jsx)(s.b,{path:"".concat(c.url,"/groups"),component:n})]})}}}]);
+//# sourceMappingURL=15.5c9b2bb2.chunk.js.map
